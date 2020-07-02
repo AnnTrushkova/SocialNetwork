@@ -1,0 +1,47 @@
+.profileInfo {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.profileImg {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    border: 2px solid #fff;
+    margin: 20px 0 10px 10px;
+}
+
+.imgPosts > img {
+    width: 20px;
+    height: 20px;
+    margin: 10px 2px 0 10px;
+}
+
+.like {
+    color: red;
+    font-size: 14px;
+}
+
+.messages {
+    border: 1px solid #e9e9e9;
+    border-radius: 4px;
+    background-color: #e9e9e9;
+    padding: 15px;
+    margin: 20px 20px 0 10px;
+}
+
+.reposts {
+    color: #2b00c9;
+    font-size: 14px;
+}
+
+.likeButton {
+    color: red!important;
+    margin: 5px 4px 0 10px;
+}
+
+.postsButtons {
+    margin: 5px 4px 0 10px;
+}

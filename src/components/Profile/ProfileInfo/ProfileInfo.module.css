@@ -1,0 +1,36 @@
+.userPhoto {
+    height: 150px;
+    border-radius: 100px;
+    border: 2px solid #fff;
+    margin: -90px 0 10px 10px;
+}
+
+.btnDownload {
+    position: relative;
+}
+
+.btn {
+    margin-left: 30px;
+}
+
+.file {
+    position: absolute;
+    top: 14px;
+    left: 42px;
+    opacity: 0;
+}
+
+.profileInfo {
+    margin: 20px 0 10px 10px;
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-start;
+}
+
+.firstColumn > div, .secondColumn > div {
+    margin-bottom: 5px;
+    padding: 3px 10px;
+    font-size: 14px;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+}

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7757d917-e21d-4762-b188-b4c511cf2caa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QeP10QvoAHQxX4hiEIlNmjMVC2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\React\projects\01-first-project\social-network\src\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\React\projects\01-first-project\social-network\src\components\News\Select" />
+      <recent name="D:\React\projects\01-first-project\social-network\src\components\News\NewsPost" />
+      <recent name="D:\React\projects\01-first-project\social-network\src\components\News\Pagination" />
+      <recent name="D:\react\projects\01-first-project\social-network\src\redux" />
+      <recent name="D:\react\projects\01-first-project\social-network\src\components\Dialogs\DialogsItem" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="example.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/social-network/src/example.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.example.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7757d917-e21d-4762-b188-b4c511cf2caa" name="Default Changelist" comment="" />
+      <created>1553690325490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553690325490</updated>
+      <workItem from="1553690339418" duration="25000" />
+      <workItem from="1554903705216" duration="488000" />
+      <workItem from="1554916719196" duration="906000" />
+      <workItem from="1555058389725" duration="6702000" />
+      <workItem from="1555066255012" duration="6183000" />
+      <workItem from="1555076097021" duration="1500000" />
+      <workItem from="1555077687887" duration="263000" />
+      <workItem from="1555077978682" duration="2787000" />
+      <workItem from="1555081449257" duration="995000" />
+      <workItem from="1555091080303" duration="2429000" />
+      <workItem from="1555146598263" duration="7865000" />
+      <workItem from="1555159849087" duration="4269000" />
+      <workItem from="1555233775426" duration="1458000" />
+      <workItem from="1555236339821" duration="4428000" />
+      <workItem from="1555246071567" duration="670000" />
+      <workItem from="1555247527337" duration="5310000" />
+      <workItem from="1555320989662" duration="901000" />
+      <workItem from="1555325910542" duration="1207000" />
+      <workItem from="1555420778196" duration="1248000" />
+      <workItem from="1555424060145" duration="12681000" />
+      <workItem from="1555490058089" duration="4509000" />
+      <workItem from="1555510077371" duration="2402000" />
+      <workItem from="1555586858716" duration="15415000" />
+      <workItem from="1555671381835" duration="2330000" />
+      <workItem from="1555762728059" duration="45000" />
+      <workItem from="1555836199844" duration="12020000" />
+      <workItem from="1556016056580" duration="4416000" />
+      <workItem from="1556971019267" duration="723000" />
+      <workItem from="1558029020872" duration="234000" />
+      <workItem from="1563624040474" duration="8995000" />
+      <workItem from="1563726691005" duration="230000" />
+      <workItem from="1563789425823" duration="928000" />
+      <workItem from="1563899153453" duration="128000" />
+      <workItem from="1565357867782" duration="470000" />
+      <workItem from="1565443024434" duration="243000" />
+      <workItem from="1565540395236" duration="192000" />
+      <workItem from="1565782861680" duration="136000" />
+      <workItem from="1565786181231" duration="45000" />
+      <workItem from="1565804734613" duration="599000" />
+      <workItem from="1566034906847" duration="4881000" />
+      <workItem from="1566054680770" duration="608000" />
+      <workItem from="1566130504818" duration="3049000" />
+      <workItem from="1566226857270" duration="10000" />
+      <workItem from="1566463551026" duration="31623000" />
+      <workItem from="1566514438680" duration="587000" />
+      <workItem from="1566515040959" duration="8000" />
+      <workItem from="1566562465543" duration="6733000" />
+      <workItem from="1566630152554" duration="620000" />
+      <workItem from="1566635916312" duration="599000" />
+      <workItem from="1566663169063" duration="613000" />
+      <workItem from="1566807282892" duration="673000" />
+      <workItem from="1566811185855" duration="1617000" />
+      <workItem from="1566886799698" duration="926000" />
+      <workItem from="1567065643213" duration="26000" />
+      <workItem from="1567094019587" duration="177000" />
+      <workItem from="1567105884932" duration="1006000" />
+      <workItem from="1567152849079" duration="2165000" />
+      <workItem from="1567358286640" duration="42000" />
+      <workItem from="1567409209788" duration="2328000" />
+      <workItem from="1567505692926" duration="5000" />
+      <workItem from="1567699829895" duration="627000" />
+      <workItem from="1568022863126" duration="1710000" />
+      <workItem from="1568127880891" duration="9000" />
+      <workItem from="1568131579657" duration="38000" />
+      <workItem from="1568131700089" duration="295000" />
+      <workItem from="1568209948448" duration="2247000" />
+      <workItem from="1568218135298" duration="2842000" />
+      <workItem from="1568229988858" duration="7827000" />
+      <workItem from="1568265512714" duration="2096000" />
+      <workItem from="1593625713506" duration="1382000" />
+      <workItem from="1593627134463" duration="720000" />
+      <workItem from="1593689231656" duration="24000" />
+      <workItem from="1593689600496" duration="964000" />
+    </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1565443055945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565443055945</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test commit2">
+      <created>1565443071316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565443071316</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit-8">
+      <created>1566514052622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566514052622</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit-9">
+      <created>1568211132632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568211132632</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit-9">
+      <created>1568211287628</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568211287628</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit-10">
+      <created>1568212372614</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568212372614</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <MESSAGE value="test commit2" />
+    <MESSAGE value="commit-8" />
+    <MESSAGE value="commit-9" />
+    <MESSAGE value="commit-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit-10" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
