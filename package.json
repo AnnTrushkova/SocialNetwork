@@ -5,7 +5,7 @@
   "homepage": "https://AnnTrushkova.github.io/SocialNetwork/",
   "dependencies": {
     "antd": "^4.4.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
